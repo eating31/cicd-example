@@ -63,4 +63,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: eating31/cicd-example:latest
+          tags: emmmmmma1/cicd:latest
