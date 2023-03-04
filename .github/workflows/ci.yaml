@@ -63,4 +63,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: nucktwillieren/cicd-example:latest
+          tags: eating31/cicd-example:latest
